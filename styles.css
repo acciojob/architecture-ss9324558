@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+* {
+	width:1100px;
+}
+.imageContainer>img {
+	width: 200px;
+	height: auto;
+}
+p {
+	text-align: center;
+}
+.mcell {
+	width: 600px;
+}
+td.imgcell {
+	width: 200px;
+}
+table,tr,td {
+	border:2px groove;
+}
